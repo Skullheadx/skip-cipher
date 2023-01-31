@@ -3,8 +3,8 @@
 ## What is the Skip cipher?
 
 The skip cipher, also known as the jump cipher,
-which reorders the letters in a message by skipping a certain number of letters
-(and looping back around when the end is reached) until all the letters have been processed.
+which reorders the letters in a message by skipping a certain number of letters until all the letters have been processed.
+In the code, I have set it to add in every possible initial character to begin the skip cipher.
 
 ## Dependencies
 - Python 3.6 or higher
